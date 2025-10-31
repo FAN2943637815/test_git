@@ -1,3 +1,1 @@
-
-for x in range(10):
-    print("test2")
+print("this is test2 file")
